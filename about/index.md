@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+My name is Kes, I'm 24, pronouns she/her and I'm based in London.
